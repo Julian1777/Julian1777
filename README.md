@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Julian
 
-<!--
-**Julian1777/Julian1777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior year student passionate about computer vision and autonomous systems. Primarily Python.
 
-Here are some ideas to get you started:
+## Currently Working On
+<p align="center">
+  <img src="https://raw.githubusercontent.com/visionpilot-project/VisionPilot/main/media/bannernobg.png" alt="VisionPilot Banner" height="200" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[VisionPilot](https://github.com/visionpilot-project/VisionPilot)** ⭐ 10+  
+A modular Python project for autonomous driving research. It combines computer vision, deep learning, and real-time sensor fusion to build perception and control systems for autonomous vehicles.
+
+### What VisionPilot Does
+- Lane detection (Traditional CV + SCNN)
+- Traffic sign & light detection and classification
+- Vehicle & pedestrian detection
+- Multi-sensor fusion (Camera, LiDAR, Radar, GPS, IMU)
+- Real-time autonomous driving with PID control
+- Emergency braking (AEB) and cruise control
+- Live visualization with Foxglove
+
+### Demos
+Check out the project in action on my [YouTube](https://www.youtube.com/@julian1777s) – demos covering lane keeping, traffic sign detection, emergency braking, and more.
+
+---
+
+## Areas of Expertise
+Computer Vision • Deep Learning • Real-time Systems • Sensor Fusion • Autonomous Driving • PyTorch • OpenCV • Docker
+
+## Career Goals
+Developing Level 4 autonomous driving systems – whether for cars, trucks, buses, or taxis. The goal is robust, production-ready autonomous perception and control.
+
+## Open to Contributions
+I'm always open to collaboration on VisionPilot or other projects. If you're interested in autonomous systems, computer vision, or just want to help out, feel free to reach out or submit a PR.
