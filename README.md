@@ -7,15 +7,15 @@ Senior year student passionate about computer vision and autonomous systems. Pri
   <img src="https://raw.githubusercontent.com/visionpilot-project/VisionPilot/main/media/bannernobg.png" alt="VisionPilot Banner" height="200" />
 </p>
 
-**[VisionPilot](https://github.com/visionpilot-project/VisionPilot)** ⭐ 18 
+**[VisionPilot](https://github.com/visionpilot-project/VisionPilot)** ⭐ 26
 A modular Python project for autonomous driving research. It combines computer vision, deep learning, and real-time sensor fusion to build perception and control systems for autonomous vehicles.
 
 ### What VisionPilot Does
-- Lane detection (Traditional CV + SCNN)
+- Lane detection (Traditional CV + Deep Learning)
 - Traffic sign & light detection and classification
 - Vehicle & pedestrian detection
 - Multi-sensor fusion (Camera, LiDAR, Radar, GPS, IMU)
-- Real-time autonomous driving with PID control
+- Real-time autonomous driving with MPC control
 - Emergency braking (AEB) and cruise control
 - Live visualization with Foxglove
 
