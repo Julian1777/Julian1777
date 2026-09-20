@@ -1,13 +1,13 @@
 # Hi, I'm Julian
 
-Senior year student passionate about computer vision and autonomous systems. Primarily Python.
+First year CS university student passionate about computer vision and autonomous systems. Primarily Python. Learning C++.
 
 ## Currently Working On
 <p align="center">
-  <img src="https://raw.githubusercontent.com/visionpilot-project/VisionPilot/main/media/bannernobg.png" alt="VisionPilot Banner" height="200" />
+  <img src="https://raw.githubusercontent.com/visionpilot-project/VisionPilot/main/media/readme/bannernobg.png" alt="VisionPilot Banner" height="200" />
 </p>
 
-**[VisionPilot](https://github.com/visionpilot-project/VisionPilot)** ⭐ 26
+**[VisionPilot](https://github.com/visionpilot-project/VisionPilot)** ⭐ 38
 A modular Python project for autonomous driving research. It combines computer vision, deep learning, and real-time sensor fusion to build perception and control systems for autonomous vehicles.
 
 ### What VisionPilot Does
@@ -20,7 +20,7 @@ A modular Python project for autonomous driving research. It combines computer v
 - Live visualization with Foxglove
 
 ### Demos
-Check out the project in action on my [YouTube](https://www.youtube.com/@julian1777s) – demos covering lane keeping, traffic sign detection, emergency braking, and more.
+Check out the project in action on my [YouTube](https://www.youtube.com/@visionpilot_ai) – demos covering lane keeping, traffic sign detection, emergency braking, and more.
 
 ---
 
