@@ -28,7 +28,7 @@ See [VisionPilot on YouTube](https://www.youtube.com/@visionpilot_ai) for demons
 
 ### Autonomous Truck NMPC
 
-[Autonomous Truck NMPC](https://github.com/Julian1777/autonomous-truck-nmpc) is a separate project exploring nonlinear Model Predictive Control for autonomous truck simulation, including trajectory optimization, highway driving, lane selection, and intelligent traffic interaction.
+[Autonomous Truck NMPC](https://github.com/Julian1777/autonomous-truck-nmpc) An early-stage project exploring nonlinear Model Predictive Control (NMPC) for autonomous truck simulation, with a focus on vehicle dynamics, trajectory optimisation, and highway lane selection.
 
 ---
 
