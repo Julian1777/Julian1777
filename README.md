@@ -4,6 +4,10 @@ First-year Computer Science student based in Amsterdam, interested in computer v
 
 Primarily working with Python, with a growing focus on C++.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Julian1777/Julian1777/main/demo.png" alt="Project Demonstration" width="750" />
+</p>
+
 ## Currently Working On
 
 ### VisionPilot
@@ -19,18 +23,29 @@ Primarily working with Python, with a growing focus on C++.
 - Traffic sign and traffic light detection and classification
 - Vehicle and pedestrian detection
 - Multi-sensor fusion (Camera, LiDAR, Radar, GPS, IMU)
-- Autonomous vehicle control using Model Predictive Control (MPC)
+- Autonomous vehicle control
 - Automatic Emergency Braking (AEB) and adaptive cruise control
 - Real-time visualization and telemetry with Foxglove
 
 #### Demos
-See [VisionPilot on YouTube](https://www.youtube.com/@visionpilot_ai) for demonstrations of lane keeping, traffic sign detection, emergency braking, and more.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/visionpilot-project/VisionPilot/main/media/demo_gifs/combined_demos.gif" alt="VisionPilot Feature Demonstration" width="650" />
+</p>
+
+See [VisionPilot on YouTube](https://www.youtube.com/@visionpilot_ai) for additional demos.
+
+<br>
 
 ### Autonomous Truck NMPC
 
-[Autonomous Truck NMPC](https://github.com/Julian1777/autonomous-truck-nmpc) An early-stage project exploring nonlinear Model Predictive Control (NMPC) for autonomous truck simulation, with a focus on vehicle dynamics, trajectory optimisation, and highway lane selection.
+[Autonomous Truck NMPC](https://github.com/Julian1777/autonomous-truck-nmpc) is an early-stage project exploring nonlinear Model Predictive Control (NMPC) for autonomous truck simulation, with a focus on vehicle dynamics, trajectory optimisation, and highway lane selection.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Julian1777/autonomous-truck-nmpc/main/docs/images/Figure_1.png" alt="Demo Trajectory" height="500" />
+</p>
+
+<br>
 
 ## Technical Interests
 
@@ -46,4 +61,10 @@ Computer Vision • Deep Learning • End-to-End Learning • Autonomous Driving
 
 ## Career Goals
 
-Working towards developing Level 4 autonomous driving systems, whether for cars, trucks, buses, or robotaxis. Particularly interested in end-to-end learning and the intersection of deep learning, perception, and vehicle control, with the goal of contributing to robust, production-ready autonomous systems.
+Interested in developing autonomous driving systems, particularly at the intersection of deep learning, computer vision, and vehicle control. Currently exploring perception-based approaches, with end-to-end learning as a future area of focus, and aiming to contribute to robust autonomous systems.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/julian-stamm/">LinkedIn</a>
+</p>
