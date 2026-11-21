@@ -4,10 +4,6 @@ First-year Computer Science student based in Amsterdam, interested in computer v
 
 Primarily working with Python, with a growing focus on C++.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Julian1777/Julian1777/main/demo.png" alt="Project Demonstration" width="750" />
-</p>
-
 ## Currently Working On
 
 ### VisionPilot
