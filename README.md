@@ -1,34 +1,49 @@
 # Hi, I'm Julian
 
-First year CS university student passionate about computer vision and autonomous systems. Primarily Python. Learning C++.
+First-year Computer Science student based in Amsterdam, interested in computer vision, deep learning, and autonomous systems.
+
+Primarily working with Python, with a growing focus on C++.
 
 ## Currently Working On
+
+### VisionPilot
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/visionpilot-project/VisionPilot/main/media/readme/bannernobg.png" alt="VisionPilot Banner" height="200" />
 </p>
 
-**[VisionPilot](https://github.com/visionpilot-project/VisionPilot)** ⭐ 38
-A modular Python project for autonomous driving research. It combines computer vision, deep learning, and real-time sensor fusion to build perception and control systems for autonomous vehicles.
+**[VisionPilot](https://github.com/visionpilot-project/VisionPilot)** is a modular Python project for autonomous driving research. It combines computer vision, deep learning, and real-time sensor fusion to develop perception and control systems for autonomous vehicles.
 
-### What VisionPilot Does
+#### What VisionPilot Does
 - Lane detection (Traditional CV + Deep Learning)
-- Traffic sign & light detection and classification
-- Vehicle & pedestrian detection
+- Traffic sign and traffic light detection and classification
+- Vehicle and pedestrian detection
 - Multi-sensor fusion (Camera, LiDAR, Radar, GPS, IMU)
-- Real-time autonomous driving with MPC control
-- Emergency braking (AEB) and cruise control
-- Live visualization with Foxglove
+- Autonomous vehicle control using Model Predictive Control (MPC)
+- Automatic Emergency Braking (AEB) and adaptive cruise control
+- Real-time visualization and telemetry with Foxglove
 
-### Demos
-Check out the project in action on my [YouTube](https://www.youtube.com/@visionpilot_ai) – demos covering lane keeping, traffic sign detection, emergency braking, and more.
+#### Demos
+See [VisionPilot on YouTube](https://www.youtube.com/@visionpilot_ai) for demonstrations of lane keeping, traffic sign detection, emergency braking, and more.
+
+### Autonomous Truck NMPC
+
+[Autonomous Truck NMPC](https://github.com/Julian1777/autonomous-truck-nmpc) is a separate project exploring nonlinear Model Predictive Control for autonomous truck simulation, including trajectory optimization, highway driving, lane selection, and intelligent traffic interaction.
 
 ---
 
-## Areas of Expertise
-Computer Vision • Deep Learning • Real-time Systems • Sensor Fusion • Autonomous Driving • PyTorch • OpenCV • Docker
+## Technical Interests
+
+Computer Vision • Deep Learning • End-to-End Learning • Autonomous Driving • Robotics • Sensor Fusion • Motion Planning & Control
+
+## Technologies
+
+**Languages:** Python, C++, MATLAB
+
+**ML & Computer Vision:** PyTorch, OpenCV, YOLO, NumPy
+
+**Tools & Infrastructure:** Docker, Git, Foxglove, BeamNG.tech
 
 ## Career Goals
-Developing Level 4 autonomous driving systems, whether for cars, trucks, buses, or taxis. The goal is robust, production-ready autonomous perception and control.
 
-## Open to Contributions
-I'm always open to collaboration on VisionPilot or other projects. If you're interested in autonomous systems, computer vision, or just want to help out, feel free to reach out or submit a PR.
+Working towards developing Level 4 autonomous driving systems, whether for cars, trucks, buses, or robotaxis. Particularly interested in end-to-end learning and the intersection of deep learning, perception, and vehicle control, with the goal of contributing to robust, production-ready autonomous systems.
